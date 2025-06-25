@@ -1,0 +1,18 @@
+[
+  {
+    "produtoId": "AiIKRRu72AnUcG7KB86e",
+    "saldoApos": 2,
+    "quantidade": -1,
+    "timestamp": "2025-06-18T10:07:57.999000+00:00",
+    "tipo": "saida",
+    "id": "K5jsAbOBr23kkINt6nQz"
+  },
+  {
+    "produtoId": "AFvXjmnIErauQjz66zLE",
+    "saldoApos": 2,
+    "quantidade": 1,
+    "timestamp": "2025-06-18T10:07:55.305000+00:00",
+    "tipo": "entrada",
+    "id": "qe7CTclkMnFnpaB5AejZ"
+  }
+]

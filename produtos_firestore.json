@@ -1,0 +1,338 @@
+[
+  {
+    "saldo": 1,
+    "nome": "Rodo Pequeno",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "050DEM7JpKTsK5adohui"
+  },
+  {
+    "saldo": 1,
+    "nome": "Saco de lixo 100 Litros",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "1npNvLLXNLNQGu2BhTwA"
+  },
+  {
+    "saldo": 1,
+    "nome": "Pá para Café",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "1vofWlFkgZmD0WklyTMY"
+  },
+  {
+    "saldo": 1,
+    "nome": "Tela Mictório",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "2T3qj2YFHsnbXOnzrF7n"
+  },
+  {
+    "saldo": 1,
+    "nome": "Suco Pacote",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "8BItE2K24A73zvE43gp4"
+  },
+  {
+    "saldo": 2,
+    "nome": "Copo água 180ml",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "AFvXjmnIErauQjz66zLE"
+  },
+  {
+    "saldo": 4,
+    "nome": "Rodo Grande",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "Aduhsbv7xtsk0uhmrXXd"
+  },
+  {
+    "saldo": 2,
+    "nome": "Café em Grão",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "AiIKRRu72AnUcG7KB86e"
+  },
+  {
+    "saldo": 1,
+    "nome": "Guardanapo Pequeno",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "AibZ8IemXICjyGRv2SuT"
+  },
+  {
+    "saldo": 2,
+    "nome": "Café em Pó",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "CIytm615m8clW70qFDS7"
+  },
+  {
+    "saldo": 0,
+    "nome": "Álcool em Gel",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "EtfvB5g1Fnv60WXPwy0k"
+  },
+  {
+    "saldo": 1,
+    "nome": "Multiuso - Limpeza Pes",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "FHXAv6sAiH0cnKoXJwQW"
+  },
+  {
+    "saldo": 1,
+    "nome": "Coador Melita",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "Kc8bfnk40I66jxe7pnuB"
+  },
+  {
+    "saldo": 1,
+    "nome": "Copo Café 80ml",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "L4bqS4AaYa2jpXmQ6TTF"
+  },
+  {
+    "saldo": 119,
+    "nome": "Álcool - 1 Litro Líquido",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "OM0webOXHAECNXuPVGKv"
+  },
+  {
+    "saldo": 1,
+    "nome": "Saco de Lixo Branco",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "OTuWyOsbYfIb0kEMdogV"
+  },
+  {
+    "saldo": 10,
+    "nome": "Açúcar",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "P9gCCw3jN3HPugXipquA"
+  },
+  {
+    "saldo": 1,
+    "nome": "Vassoura Grande",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "Q1Ic2zsdmA7EVbdv4qqf"
+  },
+  {
+    "saldo": 1,
+    "nome": "Chá",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "QMJ5TIckVuwtTRYzTyBH"
+  },
+  {
+    "saldo": 1,
+    "nome": "Sabonete Antisséptico",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "QiBbJgvu9XiCAn8JjUFM"
+  },
+  {
+    "saldo": 5,
+    "nome": "Bom Ar/Glade",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "SwfJg4cQd9hl5f0AZPDr"
+  },
+  {
+    "saldo": 1,
+    "nome": "Luvas de Limpeza",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "TNyrLqNKAaRA1YfGSnYK"
+  },
+  {
+    "saldo": 1,
+    "nome": "Veja Multiuso 500ml",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "TjgASmuv6rtFfTZn5q9D"
+  },
+  {
+    "saldo": 1,
+    "nome": "Sabão em Barra",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "W2j1Jqzux25EjEfnaXNP"
+  },
+  {
+    "saldo": 1,
+    "nome": "Saco de Lixo 50 Litros",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "WRsdyjPrzeCjpZ1bpzgQ"
+  },
+  {
+    "saldo": 1,
+    "nome": "Vassoura Pequena",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "WVd90Vqpveoyh87yDW7w"
+  },
+  {
+    "saldo": 1,
+    "nome": "Desinfetante 5 Litros",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "WXUJ3SDjK73iCodMc2AK"
+  },
+  {
+    "saldo": 1,
+    "nome": "Saco de Lixo 30 Litros",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "ZM5E5FfYAtM1kHXCWOmj"
+  },
+  {
+    "saldo": 1,
+    "nome": "Papel Higiênico Rolo",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "cGmyx5oYT6QtHcKLh5HV"
+  },
+  {
+    "saldo": 1,
+    "nome": "Pano Alvejado Chão",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "ctvqHuO7zZiKuvvCFORk"
+  },
+  {
+    "saldo": 1,
+    "nome": "Filtro de Café",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "eU4PKWf9WdlJuBlyRyoU"
+  },
+  {
+    "saldo": 1,
+    "nome": "Sabão em Pó",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "higS7kmYacU2pjFduPRZ"
+  },
+  {
+    "saldo": 1,
+    "nome": "Margarina",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "jZhRJf17clF3QpbAS97q"
+  },
+  {
+    "saldo": 1,
+    "nome": "Perfex (com 5)",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "k3ZojTjLJYyBszql8AMa"
+  },
+  {
+    "saldo": 1,
+    "nome": "Sabonete Líquido",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "ldxka3VBthNaxAlF3qrh"
+  },
+  {
+    "saldo": 1,
+    "nome": "Detergente 500ml",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "np0KZDZ3pJx8uXJCJobM"
+  },
+  {
+    "saldo": 1,
+    "nome": "Guardanapo Grande",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "qv8o8zcZwdNMrxrfi88M"
+  },
+  {
+    "saldo": 1,
+    "nome": "Leite Litro",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "r0rlxYhjEm1ytkMG0W44"
+  },
+  {
+    "saldo": 7,
+    "nome": "Adoçante",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "rCWECZnHYPlgrhgvPi7l"
+  },
+  {
+    "saldo": 1,
+    "nome": "Papel Toalha Rolo",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "rtaDIL9yerH1XDAOska9"
+  },
+  {
+    "saldo": 1,
+    "nome": "Flanela Pó",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "sRcLKTR56twFOcKEQjQg"
+  },
+  {
+    "saldo": 1,
+    "nome": "Papel Toalha Interfolha",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "syL5XQFogmdq5ZA6jOFC"
+  },
+  {
+    "saldo": 1,
+    "nome": "Lustra Móveis",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "vOMTHsIlbDNfS3r6yXQR"
+  },
+  {
+    "saldo": 1,
+    "nome": "Limpa Vidro",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "xaMhZum6RlG80zLsEGSp"
+  },
+  {
+    "saldo": 1,
+    "nome": "Copo Isopor (chá)",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "z8zbFaxsfyx7Wk2k5793"
+  },
+  {
+    "saldo": 13,
+    "nome": "Água Sanitária 5 Litros",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "zAAjluzMCmpJbRMVZIYT"
+  },
+  {
+    "saldo": 1,
+    "nome": "Inseticida Aerosol",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "zM24wY2EN7BzjVOeiJVA"
+  },
+  {
+    "saldo": 1,
+    "nome": "Esponja Scotch Brite",
+    "minimo": 2,
+    "mediaBase": 0,
+    "id": "zMLUjAeaaGMzi44IRm3W"
+  }
+]
